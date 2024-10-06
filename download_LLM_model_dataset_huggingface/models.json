@@ -1,0 +1,75 @@
+[
+   
+    {
+        "model_name": "THUDM/CogVLM"
+    },
+   {
+    "model_name":"Qwen/Qwen1.5-7B-Chat"
+   },
+   {
+    "model_name":"Qwen/Qwen1.5-4B-Chat"
+   },
+    {
+        "model_name": "Qwen/Qwen1.5-14B-Chat"
+    },{
+        "model_name": "Qwen/Qwen1.5-72B-Chat"
+    },
+    {
+        "model_name": "allenai/OLMo-7B"
+    },
+    {
+        "model_name": "mistralai/Mixtral-8x7B-Instruct-v0.1"
+    },
+    {
+        "model_name": "mistralai/Mixtral-8x7B-v0.1"
+    },
+    {
+        "model_name": "codellama/CodeLlama-70b-hf"
+    },
+    {
+        "model_name": "codellama/CodeLlama-7b-Instruct-hf"
+    },
+    {
+        "model_name": "defog/sqlcoder-70b-alpha"
+    },
+    {
+        "model_name": "openbmb/MiniCPM-2B-sft-bf16"
+    },
+    {
+        "model_name": "openbmb/OmniLMM-12B"
+    },
+    {
+        "model_name": "openbmb/MiniCPM-V"
+    },
+    {
+        "model_name": "meta-llama/Llama-2-7b-chat-hf"
+    },
+    {
+        "model_name": "runwayml/stable-diffusion-v1-5"
+    },
+    {
+        "model_name": "meta-llama/Llama-2-7b"
+    },
+    {
+        "model_name": "THUDM/codegeex2-6b"
+    },
+    {
+        "model_name": "THUDM/LongAlign-7B-64k"
+    },
+    {
+        "model_name": "THUDM/MathGLM"
+    },
+    {
+        "model_name": "THUDM/CogVLM"
+    },
+    
+    {
+        "model_name": "openchat/openchat_3.5"
+    },
+    {
+        "model_name": "openai/shap-e"
+    },
+    {
+        "model_name": "openai/shap-e-img2img"
+    }
+]

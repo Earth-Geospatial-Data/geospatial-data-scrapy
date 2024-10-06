@@ -1,0 +1,27 @@
+[
+{"ds_name": "DUOMO-Lab/TransGPT-pt"},
+{"ds_name": "BelleGroup/train_0.5M_CN"},
+{"ds_name": "BelleGroup/train_1M_CN"},
+{"ds_name": "shibing624/alpaca-zh"},
+{"ds_name": "Chinese-Vicuna/guanaco_belle_merge_v1.0"},
+{"ds_name": "BelleGroup/multiturn_chat_0.8M"},
+{"ds_name": "OpenAssistant/oasst1"}, 
+{"ds_name": "tasksource/oasst1_pairwise_rlhf_reward"},
+{"ds_name": "Dahoas/static-hh"},
+{"ds_name": "liswei/NTU-Tree"},
+{"ds_name": "yitingxie/rlhf-reward-datasets"},
+{"ds_name": "liyucheng/zhihu_rlhf_3k"},
+{"ds_name": "openai/webgpt_comparisons"},
+{"ds_name": "fka/awesome-chatgpt-prompts"},
+{"ds_name": "Dahoas/full-hh-rlhf"},
+{"ds_name": "wikimedia/wikipedia"},
+{"ds_name": "wikimedia/wikisource"},
+{"ds_name": "huggan/cityscapes"},
+{"ds_name": "Francesco/road-traffic"},
+{"ds_name": "rishiraj/traffic-detection"},
+{"ds_name": "gunshigupta/traffic_world_demos"},
+{"ds_name": "Q-b1t/puzzlebot_traffic_signals"},
+{"ds_name": "huggan/cats"}
+
+
+]
